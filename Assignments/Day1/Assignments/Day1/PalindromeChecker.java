@@ -1,3 +1,5 @@
+package Day1.Assignments.Day1;
+
 import java.util.Scanner;
 public class PalindromeChecker {
  static boolean isPalindromeIterative(String text) {
